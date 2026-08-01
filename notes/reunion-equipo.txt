@@ -1,0 +1,5 @@
+Notas de la reunión de equipo del lunes.
+
+- Repasar el backlog de sprint.
+- Decidir quién se encarga del deploy del viernes.
+- Recordar renovar el certificado del entorno de staging.
